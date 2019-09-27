@@ -1,4 +1,4 @@
-import django-heroku
+import django_heroku
 import os
 import environ
 
